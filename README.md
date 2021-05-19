@@ -8,5 +8,5 @@
 * `pull` -> pull changes down from the remote repo to your local machine
 
 
-*Cloning a repository
-*$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* Cloning a repository
+* $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
